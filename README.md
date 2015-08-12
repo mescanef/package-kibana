@@ -12,3 +12,6 @@ $ gem install fpm
 
 Note that before installing 'fpm' it might be required to install 'ruby-dev' (or equivalent) pkg first.
 
+Build script run example:
+
+$ ./build.sh debian mymail@example.com
